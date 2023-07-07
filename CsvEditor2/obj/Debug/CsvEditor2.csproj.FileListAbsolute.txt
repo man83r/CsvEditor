@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Debug\CsvEditor2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Debug\CsvEditor2.Form1.resources
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Debug\CsvEditor2.Properties.Resources.resources
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Debug\CsvEditor2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Debug\CsvEditor2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\bin\Debug\CsvEditor2.exe.config
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\bin\Debug\CsvEditor2.exe
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\bin\Debug\CsvEditor2.pdb
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Debug\CsvEditor2.exe
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Debug\CsvEditor2.pdb
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Debug\CsvEditor2.Form2.resources

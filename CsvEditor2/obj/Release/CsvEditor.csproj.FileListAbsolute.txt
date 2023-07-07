@@ -1,0 +1,51 @@
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\bin\Release\CsvEditor.exe.config
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\bin\Release\CsvEditor.exe
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\bin\Release\CsvEditor.pdb
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.aboutForm.resources
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.Form1.resources
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.Form2.resources
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.Properties.Resources.resources
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.exe
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.pdb
+C:\Users\User\source\repos\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.csproj.AssemblyReference.cache
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.csproj.AssemblyReference.cache
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.aboutForm.resources
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.Form1.resources
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.Form2.resources
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.Properties.Resources.resources
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.csproj.GenerateResource.cache
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.csproj.CoreCompileInputs.cache
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.exe
+D:\MyDocs\myProgr\архив программ\CSVEditor\3\CsvEditor2\CsvEditor2\obj\Release\CsvEditor.pdb
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\bin\Release\CsvEditor.exe.config
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\bin\Release\CsvEditor.exe
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\bin\Release\CsvEditor.pdb
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.aboutForm.resources
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.Form1.resources
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.Form2.resources
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.Properties.Resources.resources
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.exe
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.pdb
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.menuSeparator.resources
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.menuEncoding.resources
+C:\Users\User\source\repos\CsvEditor4\CsvEditor2\obj\Release\CsvEditor.menuReplace.resources
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\bin\Release\CsvEditor.exe.config
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\bin\Release\CsvEditor.exe
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\bin\Release\CsvEditor.pdb
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.aboutForm.resources
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.Form1.resources
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.Form2.resources
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.menuReplace.resources
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.menuEncoding.resources
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.menuSeparator.resources
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.Properties.Resources.resources
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.exe
+C:\Users\User\source\repos\CsvEditor5\CsvEditor2\obj\Release\CsvEditor.pdb
